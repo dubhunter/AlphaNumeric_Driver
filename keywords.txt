@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For Twitter
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+alphaNumeric	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+on	KEYWORD2
+off	KEYWORD2
+scroll	KEYWORD2
+clear	KEYWORD2
+print	KEYWORD2
+flip	KEYWORD2
+shift16	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
